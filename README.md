@@ -1,4 +1,7 @@
-This is a partial baselines package, containing an added implementation of the Expected and Surrogate Sigma-DDPG Algorithms, and the Expected and Surrogate alpha-DQN algorithms.
+This is a partial baselines package, containing an added implementation of the Expected and Surrogate Sigma-DDPG Algorithms, and the Expected and Surrogate alpha-DQN algorithms, presented in the paper:
+
+"Exploration Conscious Reinforcement Learning Revisited", Shani, L., Efroni, Y., & Mannor, S. (2018).
+https://arxiv.org/abs/1812.05551
 
 # Running the Algorithms
 
