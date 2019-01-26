@@ -20,6 +20,12 @@ Running the sigma-DDPG for Mujoco is made by running the following line:
 
 `python baselines/ddpg/main.py`
 
+- The *sigma* flag turns on the alpha-criterion.
+- The *surrogate* flag turns on the surrogate version.
+- The *expected* flag turns on the expected version.
+
+    For the expected version:
+    - The *sigma_num_samples* and *grad_num_samples* flags determine the number of samples used to approximate the expected target and the expected gradient, respectively.
 
 
 # Installation
