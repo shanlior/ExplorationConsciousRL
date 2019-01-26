@@ -45,7 +45,7 @@ These algorithms will make it easier for the research community to replicate, re
 You can install it by typing:
 
 ```bash
-git clone https://github.com/openai/baselines.git
+git clone https://github.com/shanlior/ExplorationConsciousRL.git
 cd baselines
 pip install -e .
 ```
