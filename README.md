@@ -10,7 +10,7 @@ Running the alpha-DQN for Atari is made by running the following line:
 
 `python baselines/deepq/experiment/run_atari.py`
 
-- The *alpha* flag turns on the alpha-criterion.
+- The *alpha* flag turns on the alpha-DQN.
 - The *surrogate* flag turns on the surrogate version.
 - The *expected* flag turns on the expected version.
 
@@ -20,7 +20,7 @@ Running the sigma-DDPG for Mujoco is made by running the following line:
 
 `python baselines/ddpg/main.py`
 
-- The *sigma* flag turns on the alpha-criterion.
+- The *sigma* flag turns on sigma-DDPG.
 - The *surrogate* flag turns on the surrogate version.
 - The *expected* flag turns on the expected version.
 
